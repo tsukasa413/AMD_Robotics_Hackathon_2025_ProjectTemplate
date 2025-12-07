@@ -10,7 +10,7 @@
 
 *< Images or video demonstrating your project >*
 
-## Project Details
+## Submission Details
 
 ### 1. Mission Description
 - *Real world application of your mission*
